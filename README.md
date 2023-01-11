@@ -1,0 +1,2 @@
+# swagcons
+Sticker pack support
